@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=3,7,13&text=Md%20Tanvir%20Hossain&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=3,7,13&text=Md%20Tanvir%20Hossain&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend-Focused%20Full-Stack%20Engineer%20%7C%20ReactJS%20%7C%20NodeJS%20%7C%20NextJS&descAlignY=58&descSize=16" width="100%"/>
 
 </div>
 
@@ -20,7 +20,6 @@
   <img src="https://img.shields.io/badge/Open%20to%20Work-brightgreen?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Based%20in-Dhaka%2C%20Bangladesh-orange?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/CGPA-3.73-blueviolet?style=for-the-badge"/>
-  <img src="https://komarev.com/ghpvc/?username=tanvirhossain196&style=for-the-badge&color=blue" alt="profile views"/>
 </p>
 
 <p align="center">

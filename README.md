@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2EE6A6&center=true&vCenter=true&width=650&lines=React.js+%7C+Next.js+%7C+Node.js+%7C+TypeScript;Building+full-stack+web+applications;Open+to+Internship+%2F+Junior+SWE+roles+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=2EE6A6&center=true&vCenter=true&width=650&lines=B.Sc+in+CSE+at+East+West+University;Frontend+Excellence+%7C+Full-Stack+Execution;React.js+%E2%80%A2+Next.js+%E2%80%A2+TypeScript+%E2%80%A2+Node.js+%E2%80%A2+Express.js+%E2%80%A2+PostgreSQL;Open+to+Internship+%2F+Junior+SWE+roles+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </p>
 
@@ -19,7 +19,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Open%20to%20Work-brightgreen?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Based%20in-Dhaka%2C%20Bangladesh-orange?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/CGPA-3.73-blueviolet?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Experience-1%20Year%2B-blueviolet?style=for-the-badge"/>
 </p>
 
 <p align="center">

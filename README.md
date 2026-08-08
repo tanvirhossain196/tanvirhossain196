@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=0,2,5&text=Md%20Tanvir%20Hossain&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=3,7,13&text=Md%20Tanvir%20Hossain&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=58&descSize=18" width="100%"/>
 
 </div>
 
@@ -82,30 +82,6 @@
   <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
   <img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
 </p>
-
----
-
-### 🚀 Featured Projects
-
-**[Event Flow](https://eventflow-ewu.vercel.app/)** — Automated Event Recommendation System
-Full-stack university event management platform with personalized recommendations, secure authentication, QR-based attendance, and Cloudinary media management.
-`React.js` `Node.js` `Express.js` `Supabase` `Prisma` `Passport.js` `Cloudinary`
-🔗 [Live Demo](https://eventflow-ewu.vercel.app/)
-
-**[Job Application Tracker](https://personal-job-mail-tracking-full-sta.vercel.app/)**
-Personal job application tracker to organize internship, frontend, backend, and full-stack opportunities with categorized applications, interview invitations, and offer letters.
-`Next.js` `TypeScript` `Tailwind CSS` `NextAuth.js` `PostgreSQL` `Node.js` `Express.js`
-🔗 [Live Demo](https://personal-job-mail-tracking-full-sta.vercel.app/)
-
-**[Mess Calculator](https://tanvirs-mess.netlify.app/)**
-Household cost-sharing platform with Row Level Security (RLS), real-time data synchronization, RBAC, and automated reporting.
-`JavaScript` `Supabase` `PostgreSQL` `jsPDF` `SheetJS`
-🔗 [Live Demo](https://tanvirs-mess.netlify.app/)
-
-**[SurePay – Mobile Banking System](https://surepay.vercel.app/)**
-Responsive frontend for a mobile banking system with an intuitive user interface.
-`HTML5` `CSS3` `JavaScript`
-🔗 [Live Demo](https://surepay.vercel.app/)
 
 ---
 

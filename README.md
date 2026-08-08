@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=2EE6A6&center=true&vCenter=true&width=650&lines=B.Sc+in+CSE+at+East+West+University;Frontend+Excellence+%7C+Full-Stack+Execution;React.js+%E2%80%A2+Next.js+%E2%80%A2+TypeScript+%E2%80%A2+Node.js+%E2%80%A2+Express.js+%E2%80%A2+PostgreSQL;Open+to+Internship+%2F+Junior+SWE+roles+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=2EE6A6&center=true&vCenter=true&width=650&lines=B.Sc+in+CSE+at+East+West+University;Frontend+Excellence+%7C+Full-Stack+Execution;Open+to+Internship+%2F+Junior+SWE+roles+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </p>
 
@@ -23,7 +23,7 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,postgres,mongodb,mysql,tailwind,git,github,vscode,postman" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,postgres,mongodb,tailwind,github,vscode,postman" />
 </p>
 
 ---
@@ -97,10 +97,4 @@
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=tanvirhossain196&theme=react-dark&hide_border=true" width="90%"/>
-</p>
-
----
-
-<p align="center">
-  <i>🎓 CSE Graduate • Full-Stack Developer • Ex-Undergraduate Teaching Assistant</i>
 </p>
